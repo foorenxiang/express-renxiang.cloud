@@ -27,8 +27,11 @@ body {
 }
 
 .namecard img {
-  height: 10%;
-  width: 10%;
+  /*height: 10%;*/
+  /*width: 10%;*/
+  /*min-width: 80px;*/
+  /*max-width: 100px;*/
+  width: 100px;
   margin-top: 1.5%;
   margin-left: 1%;
   /* border: #c89666 5px solid; */
